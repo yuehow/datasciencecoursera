@@ -1,0 +1,31 @@
+getwd
+getwd()
+source("plot1.R")
+plotGAP()
+plotGAP()
+source("plot1.R")
+plotGAP()
+source("plot1.R")
+plotGAP()
+source("plot1.R")
+plotGAP()
+dev.off()
+dev.cur
+dev.cur()
+source("plot1.R")
+plotGAP()
+source("plot1.R")
+plotGAP()
+dev.off()
+source("plot1.R")
+plotGAP()
+db <- read.table("household_power_consumption.txt", header=TRUE, sep=";", colClasses="character")#
+db <- subset(db, Date=="1/2/2007" | Date=="2/2/2007")
+hist(as.numeric(db$Global_active_power), col="red", main="Global Active Power", xlab="Global Active Power (kilowwatts)")
+dec.cur
+dec.cur()
+dev.cur
+dev.cur()
+hist(as.numeric(db$Global_active_power)
+)
+hist(as.numeric(db$Global_active_power))
